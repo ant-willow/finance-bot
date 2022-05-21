@@ -1,0 +1,5 @@
+.vscode/
+venv/
+.env
+bot.db
+bot.log
